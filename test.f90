@@ -8,7 +8,7 @@ program test
   !call exec_time(1)
   a=234
   b=char(a)
-  print*, djdjb
+  print*, b
 
 
   !call exec_time(2)
