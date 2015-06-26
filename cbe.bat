@@ -6,4 +6,3 @@ a.exe
 pause
 exit
 rem gfortran -g -fbounds-check -Wall -fbacktrace -finit-real=nan -std=f2008 -O3
-

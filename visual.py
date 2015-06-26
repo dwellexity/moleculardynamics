@@ -24,9 +24,8 @@ s[2].color=color.black
 s[3].color=color.green
 s[4].color=color.blue
 s[1].make_trail=True
-
 for i in range(1,loop):
-	rate(10000)
+	rate(100)
 	for j in range(0,n):
 		line=f.readline()
 		row = line.split()
